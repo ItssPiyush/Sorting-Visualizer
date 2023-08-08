@@ -298,6 +298,6 @@ There are three main indices here: `current_index`, `traversing_index`, and `sel
 The information displayed such as Time Complexities and Space Complexity are being set up in the *SortingAlgorithm* enum.
 Lastly, the only dynamic value on the HUD is the `array_access` which is being updated during the sorting process.
 
-Here's my email: manish80842@gmail.com, if you have found a bug or if you have any queries regarding this project feel free to contact me.
+Here's my email: itsspiyush@gmail.com, if you have found a bug or if you have any queries regarding this project feel free to contact me.
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
